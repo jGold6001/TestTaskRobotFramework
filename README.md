@@ -1,6 +1,9 @@
 # RobotFramework test task
 
 Solution deploying using **Windows 10** and **Chrome 87.0.4280.88** 
+**{path_to_python_script_folder}** - ".../Python/Python39/Scripts" 
+{path_to_python_script_folder} add to **Environment Variables -> System variables -> Path** 
+
 
 ### Tech 
 * Python 3.9
@@ -9,7 +12,6 @@ Solution deploying using **Windows 10** and **Chrome 87.0.4280.88**
 * Robotframework Seleniumlibrary 4.5.0
 
 ### Installation
-**{path_to_python_script_folder}** - ".../Python/Python39/Scripts" 
 
 ```sh
 $ pip install selenium
